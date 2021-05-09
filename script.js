@@ -9,7 +9,7 @@ for (var i = 0; i < names.length; i++) {
     byeSpeaker(names[i]);
   }
   else {
-    helloSpeaker(names[i]);
+    //helloSpeaker(names[i]);
   }
 }
 
