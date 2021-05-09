@@ -3,5 +3,5 @@
 	var byeSpeaker = function speak (name) {
 		console.log(speakWord + " " + name);
 	}
-	window.helloSpeaker = helloSpeaker;
+	window.byeSpeaker = byeSpeaker;
 })(window);
